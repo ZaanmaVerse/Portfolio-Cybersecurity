@@ -74,7 +74,7 @@ This repository contains selected cybersecurity awareness materials.
 
 Additional cybersecurity awareness content, campaigns, and educational posts can be viewed through the official Instagram account:
 
-**@TechinPTPN**
+**@Techinptpn**
 
 The Instagram page contains a broader collection of awareness campaigns, cybersecurity tips, security best practices, and educational content created to support organizational cybersecurity awareness initiatives.
 
