@@ -173,6 +173,14 @@ Through these challenges, I gained hands-on experience in:
 
 ---
 
+## Full Report
+
+📄 Full CTF Writeup Report:
+
+[View PDF Report](https://drive.google.com/file/d/1idkpjALi8a_qTMUIl29eH6oU8L3_DmKQ/view?usp=drive_link)
+
+---
+
 ## Disclaimer
 
 This repository is intended solely for educational and portfolio purposes.
