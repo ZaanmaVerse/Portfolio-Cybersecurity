@@ -1,97 +1,23 @@
-# Portfolio-Cybersecurity
-
 # 🛡️ Cybersecurity Portfolio
 
-## 👨‍💻 About
+Welcome to my Cybersecurity Portfolio repository.
 
-Welcome to my cybersecurity portfolio repository.  
-This repository contains several projects, labs, and practical learning experiences related to cybersecurity, threat detection, SIEM, and AI-based security solutions.
+I am **Zaidan Mahfudz Azzam Saidi**, a final-year Information Technology student specializing in Cybersecurity. This repository serves as a collection of my cybersecurity projects, technical reports, write-ups, and hands-on learning experiences.
 
----
+## 🎯 Areas of Interest
 
-## 🎓 Background
+* Security Operations Center (SOC)
+* Threat Detection & Incident Analysis
+* Vulnerability Assessment
+* Information Security
+* Security Monitoring
 
-- Information Technology Student
-- Focused on Cybersecurity, AI, Networking, and Security Monitoring
-- Interested in SOC Operations, Threat Detection, and Phishing Analysis
+## 🌐 Connect & Explore
 
----
-
-## 🚀 Featured Projects
-
-### 🔹 SIEM Integration & Threat Detection
-Implementation of:
-- Wazuh
-- Suricata
-- ELK Stack
-
-Features:
-- Log monitoring
-- Threat detection
-- Attack simulation using Kali Linux
+* LinkedIn: https://linkedin.com/in/zaidanmahfudz
+* GitHub Profile: https://github.com/ZaanmaVerse
+* TryHackMe: https://tryhackme.com/p/Zaanmatho
 
 ---
 
-### 🔹 AI Phishing Detection
-A phishing detection project focused on:
-- URL analysis
-- Phishing classification
-- AI/ML-based detection concepts
-
----
-
-### 🔹 Cyber Risk Assessment Tool
-Cyber risk assessment project based on:
-- NIST 800-30 Rev.1
-
-Includes:
-- Threat identification
-- Vulnerability analysis
-- Risk evaluation
-
----
-
-## 🛠️ Technologies & Tools
-
-### Programming
-- Python
-- JavaScript
-- PHP
-- Bash
-
-### Security & Monitoring
-- Wazuh
-- Suricata
-- ELK Stack
-- Wireshark
-- Burp Suite
-- Nmap
-
-### Environment
-- Linux
-- Kali Linux
-- Docker
-- VirtualBox
-
----
-
-## 🏆 Certifications
-
-- ISO/IEC 27001 Information Security Associate
-
----
-
-## 🔥 Learning Platforms
-
-### TryHackMe
-Hands-on cybersecurity learning platform covering:
-- SOC Fundamentals
-- Web Security
-- Threat Detection
-- Linux & Networking
-- Phishing Analysis
-- CTF Challenges
-
-Profile:
-```text
-https://tryhackme.com/p/Zaanmatho
+> Continuously learning, building, and documenting cybersecurity knowledge through practical experience and hands-on projects.
