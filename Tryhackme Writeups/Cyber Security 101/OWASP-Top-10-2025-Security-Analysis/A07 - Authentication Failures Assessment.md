@@ -143,18 +143,14 @@ Observed indicators included:
 
 #### Authentication Process
 
-text id="8j2k4n"
 ![](screenshots/login.png)
 
 ---
 
 #### Unauthorized Account Access
 
-text id="9v4e2w"
-
 ![](screenshots/account-dashboard.png)
 
----
 
 ### Security Observation
 
