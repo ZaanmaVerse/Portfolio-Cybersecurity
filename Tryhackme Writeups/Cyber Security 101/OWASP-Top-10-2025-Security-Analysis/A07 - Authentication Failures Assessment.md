@@ -137,19 +137,24 @@ Observed indicators included:
 
 #### Registration Process
 
-text id="5m7f8x"
 ![](screenshots/registration.png)
+
+---
 
 #### Authentication Process
 
 text id="8j2k4n"
 ![](screenshots/login.png)
 
+---
+
 #### Unauthorized Account Access
 
 text id="9v4e2w"
 
 ![](screenshots/account-dashboard.png)
+
+---
 
 ### Security Observation
 
