@@ -149,9 +149,9 @@ screenshots/login.png
 
 #### Unauthorized Account Access
 
-```text id="9v4e2w"
-screenshots/account-dashboard.png
-```
+text id="9v4e2w"
+
+!(screenshots/account-dashboard.png)
 
 ### Security Observation
 
