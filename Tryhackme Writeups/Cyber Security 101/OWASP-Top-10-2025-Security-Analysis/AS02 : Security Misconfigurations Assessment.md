@@ -175,7 +175,7 @@ Response:
 
 Screenshot:
 
-screenshots/valid-user-request.png
+![](screenshots/valid-user-request.png)
 
 ---
 
