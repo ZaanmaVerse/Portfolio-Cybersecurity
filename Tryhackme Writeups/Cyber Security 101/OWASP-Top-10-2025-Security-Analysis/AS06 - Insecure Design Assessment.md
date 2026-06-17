@@ -248,7 +248,7 @@ Response returned private user communications.
 
 Screenshot:
 
-[](screenshots/user1-messages.png)
+![](screenshots/user1-messages.png)
 
 ---
 
