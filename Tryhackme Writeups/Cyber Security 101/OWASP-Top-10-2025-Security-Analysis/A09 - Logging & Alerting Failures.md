@@ -160,6 +160,8 @@ These requests may indicate:
 
 ![](screenshots/siem-dashboard.png)
 
+---
+
 #### Log Investigation Details
 
 ![](screenshots/log-analysis-details.png)
